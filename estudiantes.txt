@@ -1,3 +1,4 @@
 itzel,95.0
 daniel,80.0
 federico,90.0
+luis,80.0
